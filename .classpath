@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" output="test-classes" path="test"/>
+	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/IUserManagerEJB.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/cdi-api-1.0-SP4.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/gwt-servlet.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/jboss-ejb-api_3.1_spec-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/smartgwt-skins.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/smartgwt.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/hibernate-entitymanager-4.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/hibernate-validator-4.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="war/WEB-INF/lib/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>

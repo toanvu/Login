@@ -1,0 +1,3 @@
+# Module login
+# RPC service class, partial path of RPC policy file
+de.edunet24.dev.login.client.LoginService, C7BF7CF051D04C3C85007323C07F0A42.gwt.rpc
